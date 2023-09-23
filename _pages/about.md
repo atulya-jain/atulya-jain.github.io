@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD student at HEC Paris.
 
-I study microeconomic theory with a focus on information design. I am also interested in behavioral economics.
+I study game theory.
 
 You can find my job market paper and CV here. 
 
