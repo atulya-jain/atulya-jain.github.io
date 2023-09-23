@@ -13,5 +13,5 @@ I am a PhD student at HEC Paris.
 
 I work on game theory.
 
-You can find my job market paper and [CV](https://atulya-jain@github.io/calibration.pdf) here. 
+You can find my job market paper and CV here. 
 
