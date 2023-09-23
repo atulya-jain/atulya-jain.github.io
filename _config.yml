@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : ""
   avatar           : "bio.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student, HEC Paris"
   location         : "Paris, France"
   employer         :
   pubmed           : 
