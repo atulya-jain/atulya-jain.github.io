@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-hei
+
+Calibrated Forecasting and Persuasion.
+
+[view pdf])(https://atulya-jain.github.io/calibration.pdf)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
