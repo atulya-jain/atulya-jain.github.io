@@ -8,7 +8,7 @@ author_profile: true
 
 Calibrated Forecasting and Persuasion.
 
-[view pdf])(https://atulya-jain.github.io/files/calibration.pdf.)
+[view pdf](https://atulya-jain.github.io/files/calibration.pdf.)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
