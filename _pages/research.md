@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Calibrated Forecasting and Persuasion, Poster()
+Calibrated Forecasting and Persuasion
 
 (Best Poster Award at Hi! PARIS Summer School 2023)
 
