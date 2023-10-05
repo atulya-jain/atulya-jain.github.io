@@ -8,7 +8,9 @@ author_profile: true
 
 Calibrated Forecasting and Persuasion
 
-(Best Poster Award at Hi! PARIS Summer School 2023)
+(Best Poster Award at <u><a href="https://summerschool.hi-paris.fr">Hi! PARIS Summer School 2023</a>.</u>)
+
+
 
 
 
