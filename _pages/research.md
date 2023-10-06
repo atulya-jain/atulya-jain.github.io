@@ -8,7 +8,7 @@ author_profile: true
 
 - Calibrated Forecasting and Persuasion with Vianney Perchet
 
-(Best Poster Award at <u><a href="https://summerschool.hi-paris.fr">Hi! PARIS Summer School 2023</a>.</u>)
+(Best Poster Award at <a href="https://summerschool.hi-paris.fr">Hi! PARIS Summer School 2023</a>.)
 
 
 <details>
