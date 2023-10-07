@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 
-- Calibrated Forecasting and Persuasion with Vianney Perchet
+- Calibrated Forecasting and Persuasion with Vianney Perchet <div class="button-container">
+  <a href="https://atulya-jain.github.io/files/calibration.pdf" download class="button">PDF</a>
+  <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>
+</div>
 
     (Best Poster Award at <a href="https://summerschool.hi-paris.fr">Hi! PARIS Summer School 2023</a>.)
 
@@ -19,10 +22,6 @@ author_profile: true
 
 
 
-<div class="button-container">
-  <a href="https://atulya-jain.github.io/files/calibration.pdf" download class="button">PDF</a>
-  <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>
-</div>
 
 
 
