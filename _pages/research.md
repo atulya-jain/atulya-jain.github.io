@@ -11,7 +11,7 @@ author_profile: true
   <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>
 </div>
 
-    (Best Poster Award at <a href="https://summerschool.hi-paris.fr">Hi! PARIS Summer School 2023</a>.)
+  (Best Poster Award at <a href="https://summerschool.hi-paris.fr">Hi! PARIS Summer School 2023</a>.)
 
 
 <!--
