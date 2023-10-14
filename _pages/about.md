@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD student at HEC Paris.
 
-I study game theory.
+My research interests are in microeconomic theory with a focus on  information, behavioral economics, and dynamic games.
 
-You can find my job market paper and CV here. 
+You can find my CV here. 
 
