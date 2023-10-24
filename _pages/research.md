@@ -8,7 +8,7 @@ author_profile: true
 
 - Calibrated Forecasting and Persuasion (with Vianney Perchet)
 
-  (Best Poster  at  Hi! Paris Summer School 2023</a>.)
+  (Best Poster  at  Hi! Paris Summer School 2023)
 
 <div class="button-container"> 
   <a href="https://atulya-jain.github.io/files/calibration.pdf" download class="button">PDF</a>
