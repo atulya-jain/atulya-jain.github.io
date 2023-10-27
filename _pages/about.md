@@ -19,3 +19,10 @@ You can find my CV here.
 I will be on the job market during the 2023-2024 academic year.
 
 
+## News
+
+ - We are organizing [Games and Artificial Intelligence Multidisciplinary Summer School 2024](https://www.gaimss24.org/).
+
+ - We are organzing HEC Economics PhD conference 2024. 
+
+
