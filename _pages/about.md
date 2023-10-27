@@ -22,6 +22,6 @@ You can find my CV here.
 
  - We are organizing [Games and Artificial Intelligence Multidisciplinary Summer School 2024](https://www.gaimss24.org/).
 
- - We are organzing HEC Economics PhD conference 2024. 
+ - We are organzing HEC Economics PhD conference 2024. [(see 2023 edition)](https://sites.google.com/view/hecon/home)
 
 
