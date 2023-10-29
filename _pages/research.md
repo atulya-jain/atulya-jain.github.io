@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-- Informing agents amidst biased narratives (*Job Market Paper*)
+
+
+- Informing agents amidst biased narratives (**Job Market Paper**)
 
   <details>
     <summary>Abstract</summary>
