@@ -38,10 +38,10 @@ author_profile: true
 - Are Bayesian persuasion outcomes efficient? (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
 
     <details>
-    <summary>Abstract</summary>
+      <summary>Abstract</summary>
   
 
-Information transmission between players with asymmetric information can improve outcomes and lead to efficiency. We consider the model of Bayesian persuasion: a sender commits to a signaling policy to persuade an uninformed receiver. We analyze the Pareto efficiency of the equilibrium outcome and provide a necessary condition for it. Using a natural class of games, we show that efficiency is non-trivial and difficult to attain.
+  Information transmission between players with asymmetric information can improve outcomes and lead to efficiency. We consider the model of Bayesian persuasion: a sender commits to a signaling policy to persuade an uninformed receiver. We analyze the Pareto efficiency of the equilibrium outcome and provide a necessary condition for it. Using a natural class of games, we show that efficiency is non-trivial and difficult to attain.
 
   </details>
 
