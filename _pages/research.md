@@ -16,8 +16,10 @@ author_profile: true
 
 
 
-- Calibrated Forecasting and Persuasion (with Vianney Perchet) <div class="button-container"> 
-  <a href="https://atulya-jain.github.io/files/calibration.pdf" download class="button">PDF</a>
+- Calibrated Forecasting and Persuasion (with Vianney Perchet)
+
+   <div class="button-container"> 
+    <a href="https://atulya-jain.github.io/files/calibration.pdf" download class="button">PDF</a>
   <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>
 </div>
 
