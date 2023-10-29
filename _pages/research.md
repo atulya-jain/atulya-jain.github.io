@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+- Informing agents amidst biased narratives (* Job Market Paper *)
+  > **Abstract**:   I study the strategic interaction between a benevolent sender (who provides data) and a biased narrator (who interprets data) who compete to persuade a boundedly rational receiver (who takes action). The receiver does not know the data-generating model and must choose between  models provided by the sender and the narrator. The receiver chooses the model using the maximum likelihood principle, selecting the one that best fits the data given her prior belief.  The sender faces a trade-off between providing information and minimizing misinterpretation. To find the optimal data-generating model, which maximizes the receiver's expected utility, I restrict the search to a finite set of models. This set  only depends on the preferences of the narrator and receiver, along with the prior belief. I show that the fully informative model can be sub-optimal and  even backfire.  Finally, I apply this framework to information campaigns and  employee feedback.
+
+
+
 
 - Calibrated Forecasting and Persuasion (with Vianney Perchet)
 
