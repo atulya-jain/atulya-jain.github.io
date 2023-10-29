@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student in the Economics and Decision Sciences department at HEC Paris.
+I am a PhD candidate in the Economics and Decision Sciences department at HEC Paris.
 
 My research interests are in microeconomic theory with a focus on  information, behavioural economics, and dynamic games.
 
