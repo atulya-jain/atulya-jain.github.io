@@ -18,7 +18,7 @@ author_profile: true
 
 
 
-- <a href="https://atulya-jain.github.io/files/calibration.pdf"> Calibrated Forecasting and Persuasion </a>  (with Vianney Perchet)    <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>
+- <a href="https://atulya-jain.github.io/files/calibration.pdf"> Calibrated Forecasting and Persuasion </a>  (with <a href="https://vianney.ai/"> Vianney Perchet </a>)    <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>
 
    
   (Best Poster  at  [Hi! Paris Summer School 2023](https://summerschool.hi-paris.fr/))     
@@ -37,7 +37,7 @@ author_profile: true
 
 
 
-- Are Bayesian persuasion outcomes efficient? (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
+- Are Bayesian persuasion outcomes efficient? (with <a href="https://iarieli.net.technion.ac.il/"> Itai Arieli </a>, <a href="https://yakovbabichenko.net.technion.ac.il/"> Yakov Babichenko</a> and <a href="https://web.iem.technion.ac.il/site/academicstaff/rann-smorodinsky/">  Rann Smorodinsky</a>)
 
     <details>
       <summary>Abstract</summary>
