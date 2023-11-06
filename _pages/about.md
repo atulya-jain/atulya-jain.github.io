@@ -13,7 +13,7 @@ I am a PhD candidate in the Economics and Decision Sciences department at HEC Pa
 
 My research interests are in microeconomic theory with a focus on  information, behavioural economics, and dynamic games.
 
- You can find my CV <a href="https://atulya-jain.github.io/files/CV.pdf"> here</a>.
+ You can find my CV <a href="https://atulya-jain.github.io/files/resume-jain.pdf"> here</a>.
 
 **I will be on the job market during the 2023-2024 academic year.**
 
