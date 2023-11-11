@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-- Informing agents amidst biased narratives (**Job Market Paper**)
+- <a href="https://atulya-jain.github.io/files/jmp_jain.pdf"> Informing agents amidst biased narratives </a>  (**Job Market Paper**)
 
   <details>
     <summary>Abstract</summary>
