@@ -14,7 +14,7 @@ I am a PhD candidate in the Economics and Decision Sciences department at HEC Pa
 Feel free to reach out to me at <a href="mailto:your-email@example.com">atulya.jain@hec.edu</a>
 
 
-**I will be on the job market during the 2023-2024 academic year.**
+**I will be on the job market in the 2023-2024 academic year.**
 
 
 ## News
