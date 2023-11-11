@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in the Economics and Decision Sciences department at HEC Paris.
+I am a PhD candidate in the Economics and Decision Sciences department at HEC Paris advised by <a href="https://sites.google.com/site/tristantomala2/home?authuser=0"> Tristan Tomala</a>.
 
 My research interests are in microeconomic theory with a focus on  information, behavioral economics, and dynamic games.
 
