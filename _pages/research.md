@@ -12,7 +12,9 @@ author_profile: true
   <details>
     <summary>Abstract</summary>
   
-    I study the strategic interaction between a benevolent sender (who provides data) and a biased narrator (who interprets data) who compete to persuade a boundedly rational receiver (who takes action). The receiver does not know the data-generating model and must choose between models provided by the sender and the narrator. The receiver chooses the model using the maximum likelihood principle, selecting the one that best fits the data given her prior belief. The sender faces a trade-off between providing information and minimizing misinterpretation. I show that full disclosure can be suboptimal and even backfire. I identify a finite set of models that contain the optimal data-generating model, which maximizes the receiver’s expected utility. The optimal model ensures a positive value of information for the receiver. I apply this framework to information campaigns and employee feedback.
+   I study the strategic interaction between a benevolent sender (who provides data) and a biased narrator (who interprets data) who compete to persuade a boundedly rational receiver (who takes action). The receiver does not know the data-generating model. She chooses between
+models provided by the sender and the narrator using the maximum likelihood principle, selecting the one that best fits the data given her prior belief. The sender faces a trade-off between providing precise information and minimizing misinterpretation. Surprisingly, full disclosure
+can be suboptimal and even backfire. I identify a finite set of models that contain the optimal data-generating model, which maximizes the receiver’s expected utility. The sender can guarantee non-negative value of information, preventing harm from misinterpretation. I apply this framework to information campaigns and employee feedback.
 
   </details>
 
