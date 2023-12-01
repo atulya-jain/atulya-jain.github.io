@@ -84,11 +84,11 @@ author:
   avatar           : "0097.jpg"
   bio              : "PhD candidate, HEC Paris"
   location         : "Paris, France"
-  employer         :
+  employer         : "https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/jain-atulya"
   pubmed           : 
   googlescholar    : 
   email            :  "atulya.jain@hec.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
