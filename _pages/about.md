@@ -21,6 +21,6 @@ Feel free to reach out to me at <a href="mailto:atulya.jain@hec.edu">atulya.jain
 
  - We are organizing  [Games and Artificial Intelligence Multidisciplinary Summer School 2024](https://www.gaimss24.org/).
 
- - We are organizing HEC Economics PhD conference 2024. [(2023 edition)](https://sites.google.com/view/hecon/home)
+ - We are organizing [HEC Economics PhD conference 2024](https://sites.google.com/view/hecon/home).
 
 
