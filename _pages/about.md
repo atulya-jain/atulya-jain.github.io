@@ -24,7 +24,9 @@ Feel free to reach out to me at <a href="mailto:atulya.jain@hec.edu">atulya.jain
 
  - We are organizing [HEC Economics PhD conference 2024](https://sites.google.com/view/hecon/home).
 
- - **Scheduled Talks**:  European Association of Young Economists Meeting (23 - 25 May 2024), 2024 Mediterranean Game Theory Symposium (28-31 May), Workshop on Learning in Games (1-3 July).
+ ## Scheduled Talks
+ 
+ European Association of Young Economists Meeting (23 - 25 May 2024), 2024 Mediterranean Game Theory Symposium (28-31 May), Workshop on Learning in Games (1-3 July).
 
 
 
