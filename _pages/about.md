@@ -14,13 +14,18 @@ I am a PhD candidate in the Economics and Decision Sciences department at <a hre
 Feel free to reach out to me at <a href="mailto:atulya.jain@hec.edu">atulya.jain@hec.edu</a>.
 
 
-**I will be on the job market in the 2023-2024 academic year.**
 
 
 ## News
 
+  - Our paper on Calibrated Forecasting and Persuasion was accepted to EC 2024!
+
  - We are organizing  [Games and Artificial Intelligence Multidisciplinary Summer School 2024](https://www.gaimss24.org/).
 
  - We are organizing [HEC Economics PhD conference 2024](https://sites.google.com/view/hecon/home).
+
+ - Scheduled Talks:  European Association of Young Economists Meeting (23 - 25 May 2024), 2024 Mediterranean Game Theory Symposium (28-31 May), Workshop on Learning in Games (1-3 July).
+
+
 
 
