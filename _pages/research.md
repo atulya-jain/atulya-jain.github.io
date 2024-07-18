@@ -23,7 +23,6 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 - <a href="https://atulya-jain.github.io/files/calibration.pdf"> Calibrated Forecasting and Persuasion </a>  (with Vianney Perchet)    <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a> (Extended abstract at EC'24)
 
    
-<!--  (Best Poster  at  [Hi! Paris Summer School 2023](https://summerschool.hi-paris.fr/))  --!>   
 
 
 
