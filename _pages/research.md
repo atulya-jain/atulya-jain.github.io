@@ -20,7 +20,9 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 <!-- <a href="https://vianney.ai/"> Vianney Perchet </a>  <a href="https://iarieli.net.technion.ac.il/"> <a href="https://yakovbabichenko.net.technion.ac.il/"> <a href="https://web.iem.technion.ac.il/site/academicstaff/rann-smorodinsky/">  -->
 
-- <a href="https://atulya-jain.github.io/files/calibration.pdf"> Calibrated Forecasting and Persuasion </a>  (with Vianney Perchet)    <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a> (Extended abstract at EC'24)
+- <a href="https://atulya-jain.github.io/files/calibration.pdf"> Calibrated Forecasting and Persuasion </a>  (with Vianney Perchet)    <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>
+
+   (Extended abstract at EC'24)
 
    
 
