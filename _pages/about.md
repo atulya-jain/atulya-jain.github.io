@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral researcher  at the Institute for Microeconomics at the <a href="https://econtribute.de/people/atulya-jain/">  University of Bonn </a>. My research interests lie in microeconomic theory, with a focus on information economics, behavioral economics, and dynamic games.   Feel free to reach out to me at <a href="mailto:atulya.jain@hec.edu">atulya.jain@hec.edu</a>.
+I am a Postdoctoral researcher  at the Institute for Microeconomics at the <a href="https://econtribute.de/people/atulya-jain/">  University of Bonn </a>. My research interests lie in microeconomic theory, with a focus on information economics, behavioral economics, and dynamic games. You can find my resume  <a href="https://atulya-jain.github.io/files/resume_jain.pdf"> here</a>.  I'm always happy to chat and exchange ideas—feel free to reach out to me at <a href="mailto:atulya.jain@hec.edu">atulya.jain@hec.edu</a>.
 
 
 
