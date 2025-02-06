@@ -14,7 +14,7 @@ I am a Postdoctoral researcher  at the Institute for Microeconomics at the <a hr
 
 ## News
 
- - We are organizing  [Games and Artificial Intelligence Multidisciplinary Summer School 2025](https://www.gaimss.org/) (Deadline: March 15)
+ - We are organizing  [Games and Artificial Intelligence Multidisciplinary Summer School (GAIMSS) 2025](https://www.gaimss.org/) (Deadline: March 15)
 
 
 
