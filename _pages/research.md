@@ -40,13 +40,13 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 
-- Are Bayesian persuasion outcomes efficient? (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
+- When Does Communication Lead to Efficiency? (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
 
     <details>
       <summary>Abstract</summary>
   
 
-  Information transmission between players with asymmetric information can improve outcomes and lead to efficiency. We consider the model of Bayesian persuasion: a sender commits to a signaling policy to persuade an uninformed receiver. We analyze the Pareto efficiency of the equilibrium outcome and provide a necessary condition for it. Using a natural class of games, we show that efficiency is non-trivial and difficult to attain.
+  We study a sender-receiver model where the sender chooses a signaling policy to influence the receiver's action. We classify outcomes by the number of actions taken in each state and show that an outcome is generically Pareto efficient only if it is pure or quasi-pure. We then analyze the conditions under which equilibrium outcomes in cheap talk and Bayesian persuasion can be efficient. A cheap talk outcome is generically efficient only if it is pure. Moreover, when the sender’s preferences are state-independent, a cheap talk outcome is efficient if and only if it induces the sender's most preferred action with certainty. In a natural class of buyer-seller scenarios, we show that the Bayesian persuasion outcome is inefficient across a large range of priors and preferences.
 
   </details>
 
