@@ -40,13 +40,14 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 
-- When Does Communication Lead to Efficiency? (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
+- <a href="https://atulya-jain.github.io/files/WhenCommunicationEfficient.pdf">   When Does Communication Lead to Efficiency?  </a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
 
     <details>
       <summary>Abstract</summary>
   
 
-  We study a sender-receiver model where the sender chooses a signaling policy to influence the receiver's action. We classify outcomes by the number of actions taken in each state and show that an outcome is generically Pareto efficient only if it is pure or quasi-pure. We then analyze the conditions under which equilibrium outcomes in cheap talk and Bayesian persuasion can be efficient. A cheap talk outcome is generically efficient only if it is pure. Moreover, when the sender’s preferences are state-independent, a cheap talk outcome is efficient if and only if it induces the sender's most preferred action with certainty. In a natural class of buyer-seller scenarios, we show that the Bayesian persuasion outcome is inefficient across a large range of priors and preferences.
+  We study games with incomplete information and characterize when a feasible outcome is Pareto efficient. We show that any outcome with excessive randomization over actions is inefficient. Generically, efficiency requires that the total number of actions taken across states be strictly less than the sum of the number of players and states. We then examine the efficiency of equilibrium outcomes in communication models. Generically, a cheap talk outcome is efficient only if it is pure. When the sender's payoff is state-independent, it is efficient if and only if the sender's most preferred action is chosen with certainty. In natural buyer-seller settings, Bayesian persuasion outcomes are inefficient across a wide range of priors and preferences. Finally, we show that our results apply to mechanism design problems with many players.
+
 
   </details>
 
