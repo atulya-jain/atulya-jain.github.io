@@ -40,7 +40,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 
-- <a href="https://atulya-jain.github.io/files/WhenCommunicationEfficient.pdf">   When Does Communication Lead to Efficiency?</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
+- <a href="https://atulya-jain.github.io/files/WhenCommunicationEfficient.pdf">   When Can Communication Lead to Efficiency?</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
 
     <details>
       <summary>Abstract</summary>
