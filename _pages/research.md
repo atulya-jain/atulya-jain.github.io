@@ -40,14 +40,13 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 
-- <a href="https://atulya-jain.github.io/files/WhenCommunicationEfficient.pdf">   When Can Communication Lead to Efficiency?</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
+- <a href="https://atulya-jain.github.io/files/Draft-new.pdf">   Efficiency in Games with Incomplete Information </a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
 
     <details>
       <summary>Abstract</summary>
   
 
-  We study games with incomplete information and characterize when a feasible outcome is Pareto efficient. We show that any outcome with excessive randomization over actions is inefficient. Generically, efficiency requires that the total number of actions taken across states be strictly less than the sum of the number of players and states. We then examine the efficiency of equilibrium outcomes in communication models. Generically, a cheap talk outcome is efficient only if it is pure. When the sender's payoff is state-independent, it is efficient if and only if the sender's most preferred action is chosen with certainty. In natural buyer-seller settings, Bayesian persuasion outcomes are inefficient across a wide range of priors and preferences. Finally, we show that our results apply to mechanism design problems with many players.
-
+We study games with incomplete information and characterize when a feasible outcome is Pareto efficient. Outcomes with excessive randomization are inefficient: generically, the total number of action profiles across states must be strictly less than the sum of the number of players and the number of states. We consider three applications. A cheap talk outcome is efficient only if pure; with state-independent sender payoffs, it is efficient if and only if the sender’s most preferred action is induced with certainty. In natural settings, Bayesian persuasion outcomes are inefficient across many priors. Finally, ranking-based allocation mechanisms are inefficient under mild conditions.
 
   </details>
 
