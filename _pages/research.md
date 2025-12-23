@@ -41,7 +41,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 - <a href="https://atulya-jain.github.io/files/Draft-new.pdf">   Efficiency in Games with Incomplete Information</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)
-     <span style="color:#2a7fb8; font-weight:500;">
+      <span style="color: inherit; font-weight:500;">
     — New version (Dec 2025)
     </span>
 
