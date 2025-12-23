@@ -54,7 +54,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
   </details>
 
 
-- Dynamic Cheap Talk with no feedback
+- Dynamic Cheap Talk with no Feedback
 
     <details>
     <summary>Abstract</summary>
