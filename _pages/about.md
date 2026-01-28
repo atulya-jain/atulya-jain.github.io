@@ -12,7 +12,11 @@ redirect_from:
 I am a Postdoctoral researcher  at the Institute for Microeconomics at the <a href="https://econtribute.de/people/atulya-jain/">  University of Bonn</a>. My research interests lie in microeconomic theory, with a focus on information economics, behavioral economics, and dynamic games.  I'm always happy to chat and exchange ideas—feel free to reach out to me at <a href="mailto:ajain@uni-bonn.de">ajain@uni-bonn.de</a>.
 
 
+## News
 
+
+**GAIMSS’26** will be held in **Bonn** on **July 20–24, 2026**.
+More details to follow.
 
 
 
