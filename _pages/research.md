@@ -50,6 +50,15 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
   </details>
 
+- <a href="https://atulya-jain.github.io/files/inefficiency-social-learning.pdf">   On the Inefficiency of Social Learning </a>  (with Florian Brandl and Wanying (Kate) Huang)  
+
+    <details>
+      <summary>Abstract</summary>
+  
+
+     We study whether a social planner can improve the efficiency of learning, measured by the expected total welfare loss, in a sequential decision-making environment. Agents arrive in order and each makes a binary action based on their private signal and the social information they observe. The planner can intervene by jointly designing the social information disclosed to agents and offering monetary transfers contingent on agents’ actions. We show that, despite such flexibility, efficient learning cannot be restored with a finite budget: whenever learning is inefficient without intervention, no combination of information disclosure and transfers can achieve efficient learning while keeping total expected transfers finite.
+  </details>
+
 
 - Dynamic Cheap Talk with no Feedback
 
