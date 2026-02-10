@@ -50,7 +50,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
   </details>
 
-- <a href="https://atulya-jain.github.io/files/inefficiency-social-learning.pdf">   On the Inefficiency of Social Learning </a>  (with Florian Brandl and Wanying (Kate) Huang)  
+- <a href="https://atulya-jain.github.io/files/inefficiency-social-learning.pdf">   On the Inefficiency of Social Learning</a>  (with Florian Brandl and Wanying (Kate) Huang)  
 
     <details>
       <summary>Abstract</summary>
