@@ -18,7 +18,7 @@ I am a Postdoctoral researcher  at the Institute for Microeconomics at the <a hr
 **GAIMSS’26** will be held in **Bonn** on **July 20–24, 2026**.
 More details to follow.
 
-**New working paper:**  [On the Inefficiency of Social Learning](https://atulya-jain.github.io/files/inefficiency-social-learning.pdf).  Feel free to reach out to **Florian**, **Kate**, or me if you’d like to know more — or invite us for a seminar :)
+**New working paper:**  [On the Inefficiency of Social Learning](https://atulya-jain.github.io/files/inefficiency-social-learning.pdf).  Feel free to reach out to **Florian**, **Kate**, or me if you’d like to know more — or invite us for a talk :)
 
 
 
