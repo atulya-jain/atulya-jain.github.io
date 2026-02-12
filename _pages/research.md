@@ -40,7 +40,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 
-- <a href="https://atulya-jain.github.io/files/Draft-new.pdf">   Efficiency in Games with Incomplete Information</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)  <a href="https://atulya-jain.github.io/files/Efficiency30mins.pdf" download class="button">Slides</a>
+- <a href="https://atulya-jain.github.io/files/efficiency-incomplete-information.pdf">   Efficiency in Games with Incomplete Information</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)  <a href="https://atulya-jain.github.io/files/Efficiency30mins.pdf" download class="button">Slides</a>
 
     <details>
       <summary>Abstract</summary>
