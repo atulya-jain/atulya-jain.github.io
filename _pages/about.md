@@ -20,6 +20,8 @@ You can find all details <a href="https://www.gaimss.org/">here</a>.
 
 **New working paper:**  [On the Inefficiency of Social Learning](https://atulya-jain.github.io/files/inefficiency-social-learning.pdf).  Feel free to reach out to **Florian**, **Kate**, or me if you’d like to know more — or invite us for a talk :)
 
+**Updated working paper:**  [Calibrated Forecasting and Persuasion](https://atulya-jain.github.io/files/calibration.pdf). 
+
 
 
 
