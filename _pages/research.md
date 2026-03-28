@@ -64,8 +64,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
     <details>
     <summary>Abstract</summary>
-  
-
+      
       We study a dynamic sender-receiver game in which the state evolves according to a Markov chain observed by the sender, who does not observe the receiver's action. Despite the absence of feedback, dynamic interaction remains valuable. We show that long-run interaction partially restores commitment: any equilibrium payoff of a persuasion model with partial commitment,where the sender can deviate only to signaling policies that preserve the marginal distribution over messages, as well as any convex combination of such payoffs across distributions over messages, can be achieved as a uniform equilibrium payoff in the dynamic game. When the sender's payoff is state-independent, she fully bridges the commitment gap and achieves the Bayesian persuasion payoff.
     </details>
 
