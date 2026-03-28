@@ -60,14 +60,13 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
   </details>
 
 
-- Dynamic Cheap Talk with no Feedback
+-  <a href="https://atulya-jain.github.io/files/dynamic-cheap-talk-no-feedback.pdf">  Dynamic Cheap Talk with no Feedback</a>  
 
     <details>
     <summary>Abstract</summary>
   
 
-     I study a dynamic sender-receiver game, where the sequence of states follows an irreducible Markov chain. The sender provides valuable information but gets no feedback on the receiver’s actions. Under certain assumptions, I characterize the set of uniform equilibrium payoffs. I show that the sender benefits from the dynamic interaction, even without feedback.  The  interaction can restore commitment but only partially.  The sender can attain any outcome where she cannot profit by altering her signals while keeping the marginal distribution of signals  unchanged.  If the sender's payoff is state-independent, she can achieve the commitment benchmark  of  Bayesian  Persuasion.
-
+      We study a dynamic sender-receiver game in which the state evolves according to a Markov chain observed by the sender, who does not observe the receiver's action. Despite the absence of feedback, dynamic interaction remains valuable. We show that long-run interaction partially restores commitment: any equilibrium payoff of a persuasion model with partial commitment,where the sender can deviate only to signaling policies that preserve the marginal distribution over messages, as well as any convex combination of such payoffs across distributions over messages, can be achieved as a uniform equilibrium payoff in the dynamic game. When the sender's payoff is state-independent, she fully bridges the commitment gap and achieves the Bayesian persuasion payoff.
   </details>
 
 
