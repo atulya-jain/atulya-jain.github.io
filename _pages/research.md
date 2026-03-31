@@ -60,7 +60,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
   </details>
 
 
--  <a href="https://atulya-jain.github.io/files/dynamic-cheap-talk-without-feedback.pdf">  Dynamic Cheap Talk without Feedback</a>  
+- Dynamic Cheap Talk without Feedback  
 
     <details>
     <summary>Abstract</summary>
