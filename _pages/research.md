@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-- <a href="https://atulya-jain.github.io/files/jmp_jain.pdf"> Informing agents amidst biased narratives </a>  
+- <a href="https://atulya-jain.github.io/files/jmp_jain.pdf"> **Informing agents amidst biased narratives** </a>  
 
   <details>
     <summary>Abstract</summary>
@@ -20,7 +20,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 <!-- <a href="https://vianney.ai/"> Vianney Perchet </a>  <a href="https://iarieli.net.technion.ac.il/"> <a href="https://yakovbabichenko.net.technion.ac.il/"> <a href="https://web.iem.technion.ac.il/site/academicstaff/rann-smorodinsky/">  -->
 
-- <a href="https://atulya-jain.github.io/files/calibration.pdf"> Calibrated Forecasting and Persuasion</a>  (with Vianney Perchet)  <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>  [<b>New version</b>] 
+- <a href="https://atulya-jain.github.io/files/calibration.pdf"> **Calibrated Forecasting and Persuasion**</a>  (with Vianney Perchet)  <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>  [<b>New version</b>] 
 
    (Extended abstract at EC'24)
 
@@ -40,7 +40,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 
-- <a href="https://atulya-jain.github.io/files/efficiency-incomplete-information.pdf">   Efficiency in Games with Incomplete Information</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)  <a href="https://atulya-jain.github.io/files/Efficiency30mins.pdf" download class="button">Slides</a>
+- <a href="https://atulya-jain.github.io/files/efficiency-incomplete-information.pdf">   **Efficiency in Games with Incomplete Information**</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)  <a href="https://atulya-jain.github.io/files/Efficiency30mins.pdf" download class="button">Slides</a>
 
     <details>
       <summary>Abstract</summary>
@@ -50,7 +50,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
   </details>
 
-- <a href="https://atulya-jain.github.io/files/inefficiency-social-learning.pdf">   On the Inefficiency of Social Learning</a>  (with Florian Brandl and Wanying (Kate) Huang)  
+- <a href="https://atulya-jain.github.io/files/inefficiency-social-learning.pdf">   **On the Inefficiency of Social Learning**</a>  (with Florian Brandl and Wanying (Kate) Huang)  
 
     <details>
       <summary>Abstract</summary>
@@ -60,7 +60,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
   </details>
 
 
--  <a href="https://atulya-jain.github.io/files/dynamic-cheap-talk-without-feedback.pdf">   Dynamic Cheap Talk without Feedback</a>  
+-  <a href="https://atulya-jain.github.io/files/dynamic-cheap-talk-without-feedback.pdf">   **Dynamic Cheap Talk without Feedback**</a>  
 
     <details>
     <summary>Abstract</summary>
