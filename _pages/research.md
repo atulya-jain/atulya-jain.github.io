@@ -58,7 +58,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
       <summary>Abstract</summary>
   
 
-     We study whether a social planner can restore efficient learning\textemdash defined as a finite expected number of incorrect actions\textemdash in the canonical sequential social learning model. %Agents act in order, each choosing one of two actions based on a private signal and the social information they observe. For each agent, the planner chooses what social information to disclose and what action-contingent transfer to offer. For unbounded signal distributions with regular tails, we show that whenever learning is inefficient without intervention, no combination of disclosure and transfers can restore efficiency with a finite budget. In particular, disclosure alone cannot restore efficiency. We identify agents' incentives as the key source of this impossibility. The budget requirement, however, concerns the transfers offered rather than the payments made. We show that even under full disclosure, the planner can achieve efficient learning using transfers while keeping  expenditure arbitrarily small. Thus, the need for an unlimited budget does not entail large payments.
+     We study whether a social planner can restore efficient learning, defined as a finite expected number of incorrect actions, in the canonical sequential social learning model. For each agent, the planner chooses what social information to disclose and what action-contingent transfer to offer. For unbounded signal distributions with regular tails, we show that whenever learning is inefficient without intervention, no combination of disclosure and transfers can restore efficiency with a finite budget. In particular, disclosure alone cannot restore efficiency. We identify agents' incentives as the key source of this impossibility. The budget requirement, however, concerns the transfers offered rather than the payments made. We show that even under full disclosure, the planner can achieve efficient learning using transfers while keeping  expenditure arbitrarily small. Thus, the need for an unlimited budget does not entail large payments.
   </details>
 
 
@@ -69,14 +69,3 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
       
     We study a dynamic sender-receiver game in which the sender observes a state evolving according to a Markov chain but does not observe the receiver’s action. Despite the absence of feedback, dynamic interaction partially restores commitment. We show that any equilibrium payoff of a persuasion model with partial commitment—where the sender can deviate to signaling policies that preserve the marginal distribution over messages—can be achieved as a uniform equilibrium payoff in the dynamic game. Moreover, any convex combination of such payoffs across message distributions can also be sustained. When the sender’s payoff is state-independent, she achieves the Bayesian persuasion payoff.
     </details>
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
