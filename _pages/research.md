@@ -40,13 +40,15 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 
-- <a href="https://atulya-jain.github.io/files/efficiency-incomplete-information.pdf">   **Efficiency in Games with Incomplete Information**</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)  <a href="https://atulya-jain.github.io/files/Efficiency30mins.pdf" download class="button">Slides</a>
+- <a href="https://atulya-jain.github.io/files/efficiency-incomplete-information.pdf">   **Randomization and Efficiency under Incomplete
+Information**</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)  
 
     <details>
       <summary>Abstract</summary>
   
 
-  We study games with incomplete information and characterize when a feasible outcome is Pareto efficient. Outcomes with excessive randomization are inefficient: generically, the total number of action profiles across states must be strictly less than the sum of the number of players and the number of states. We consider three applications. A cheap talk outcome is efficient only if pure; with state-independent sender payoffs, it is efficient if and only if the sender’s most preferred action is induced with certainty. In natural settings, Bayesian persuasion outcomes are inefficient across many priors. Finally, ranking-based allocation mechanisms are inefficient under mild conditions.
+  We study ex-ante Pareto efficiency of feasible outcomes in games with incomplete information. Our main observation is that excessive randomization leads to inefficiency. With a nonatomic prior, generically, efficient outcomes are pure almost surely. In finite state spaces, the restriction is weaker: generically, the total number of actions used across states must be strictly less than the sum of the number of players and states. We apply these results to three environments. In an allocation problem without transfers, the welfare-maximizing incentive-compatible outcome is inefficient. In cheap talk, generically, an outcome is efficient only if it is pure; with state-independent sender payoffs, it is efficient if and only if the sender’s most preferred action is induced with certainty. In Bayesian persuasion with one safe action and several risky actions, outcomes are generically inefficient across broad sets of priors and receiver preferences.
+
 
   </details>
 
