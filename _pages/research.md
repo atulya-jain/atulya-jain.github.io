@@ -41,7 +41,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 
 - <a href="https://atulya-jain.github.io/files/efficiency-incomplete-information.pdf">   **Randomization and Efficiency under Incomplete
-Information**</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)  
+Information**</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)   <strong style="color: red !important;">New!</strong>
 
     <details>
       <summary>Abstract</summary>
