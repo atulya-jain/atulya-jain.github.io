@@ -20,7 +20,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 <!-- <a href="https://vianney.ai/"> Vianney Perchet </a>  <a href="https://iarieli.net.technion.ac.il/"> <a href="https://yakovbabichenko.net.technion.ac.il/"> <a href="https://web.iem.technion.ac.il/site/academicstaff/rann-smorodinsky/">  -->
 
-- <a href="https://atulya-jain.github.io/files/calibration.pdf"> **Calibrated Forecasting and Persuasion**</a>  (with Vianney Perchet)  <a href="https://atulya-jain.github.io/files/poster-calibration.pdf" download class="button">Poster</a>  
+- <a href="https://atulya-jain.github.io/files/calibration.pdf"> **Calibrated Forecasting and Persuasion**</a>  (with Vianney Perchet)  <strong style="color: red !important;">New!</strong>
 
    (Extended abstract at EC'24)
 
@@ -31,7 +31,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
   <details>
       <summary>Abstract</summary>
     
-  We study a dynamic game where an expert sends probabilistic forecasts to a decision-maker. The decision-maker verifies these forecasts using a calibration test based on past data. How should the expert send forecasts to maximize her payoff while passing the test? For a stationary ergodic process, we characterize the optimal forecasting strategy by reducing the dynamic game to a static persuasion problem. The distributions of forecasts that can arise under calibration are precisely the mean-preserving contractions of the distribution of conditionals. We compare the payoffs attainable by an informed and uninformed expert, providing a benchmark for the value of information. Finally, we consider a regret-minimizing decision-maker and show that the expert can always guarantee at least the calibration benchmark and sometimes strictly more.
+  We study a dynamic game where an expert sends probabilistic forecasts to a decision-maker. The decision-maker verifies these forecasts using a calibration test based on past data. How should the expert send forecasts   to maximize her payoff while passing the test? For a stationary ergodic process, we characterize the optimal forecasting strategy by reducing the dynamic game to a static persuasion problem. Calibration restricts long-  run forecast distributions to mean-preserving contractions of the distribution of truthful forecasts. We compare the payoffs attainable by an informed and uninformed expert, providing a benchmark for the value of   information. Finally, we consider a decision-maker who uses a mean-based learning strategy and show that the expert can guarantee at least the calibration benchmark and sometimes strictly more.
 
   </details>
 
