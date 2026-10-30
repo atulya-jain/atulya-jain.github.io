@@ -22,7 +22,7 @@ can be suboptimal and even backfire. I identify a finite set of models that cont
 
 - <a href="https://atulya-jain.github.io/files/calibration.pdf"> **Calibrated Forecasting and Persuasion**</a>  (with Vianney Perchet)  <strong style="color: red !important;">New!</strong>
 
-   (Extended abstract at EC'24)
+  (Extended abstract at EC'24)
 
    
 
@@ -54,7 +54,7 @@ Information**</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)   <
 
 - <a href="https://atulya-jain.github.io/files/inefficiency-social-learning.pdf"><strong>On the Inefficiency of Social Learning</strong></a>  (with Florian Brandl and Wanying (Kate) Huang)  <strong style="color: red !important;">New!</strong>
 
-  (Extended abstract at EC'26)
+   (Extended abstract at EC'26)
 
     <details>
       <summary>Abstract</summary>
@@ -65,7 +65,10 @@ Information**</a>  (with Itai Arieli, Yakov Babichenko and Rann Smorodinsky)   <
 
 
 -  <a href="https://atulya-jain.github.io/files/dynamic-cheap-talk-without-feedback.pdf">   **Dynamic Cheap Talk without Feedback**</a>  
-
+     <span style="color: #2563a6; font-size: 0.9em;">
+    Revise and Resubmit, Journal of Economic Theory
+    </span>
+  
     <details>
     <summary>Abstract</summary>
       
